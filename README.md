@@ -1,2 +1,3 @@
-# Prueba A/B
-Proyectos de pruebas A/B para la toma de decisiones. 
+Objetivo: Realizar una prueba A/B para determinar si es viable tener una granja de sandias en Brasil en una tienda internacional. Se realizo una Prueba Z
+
+Tecnologías: Python, Pandas, Seborn, numpy. 
